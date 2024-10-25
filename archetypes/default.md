@@ -1,18 +1,18 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .File.ContentBaseName `-` ` ` | title }}"
 draft: true
-slug: 
-description: 
+slug:
+description:
 date: {{ .Date }}
-author: 
-github-user: 
-image: 
-math: 
-license: 
+author:
+github-user:
+image: images/default-post-cover.jpg
+math:
+license:
 hidden: false
 comments: true
 categories:
-    - Updates
+    - Update
 tags:
     - notes
 ---
