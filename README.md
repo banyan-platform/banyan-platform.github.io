@@ -8,9 +8,17 @@ To add content (e.g., Engineering updates), make sure you've done the following:
 brew install hugo
 ```
 
+and then:
+
 ```shell
-TBD
+TITLE="My New Post" make post
 ```
+
+To add a new category:
+
+* `cp -r content/categories/example-category content/categories/new-cat`
+* edit the `title` and `description` metadata in `new-cat/_index.md`
+* update the metadata of post(s) that will use this new category (multiple allowed)
 
 ## Running Locally
 
