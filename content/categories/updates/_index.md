@@ -1,5 +1,5 @@
 ---
-title: Update
+title: Updates
 description: Significant notices about the work that Engineering has done
 image:
 

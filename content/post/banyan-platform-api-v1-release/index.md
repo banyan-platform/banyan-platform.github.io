@@ -12,7 +12,7 @@ license:
 hidden: false
 comments: true
 categories:
-    - Update
+    - Updates
 tags:
     - notes
     - release
