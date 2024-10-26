@@ -16,4 +16,6 @@ categories:
 tags:
     - notes
     - release
+    - gcp
+    - rest
 ---
