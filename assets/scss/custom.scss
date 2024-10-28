@@ -2,18 +2,23 @@
     You can add your own custom styles here.
 */
 
-h1.site-name a, h2.article-title a, #main-menu li.current a, div.archives-year span.year, section.copyright {
-    color: $brandPrimary1 !important;
+h1.site-name a, #main-menu li.current a, section.copyright {
+    color: var(--heading-color) !important;
+}
+
+h2.article-title a, div.archives-year span.year, section.copyright {
+    color: var(--heading-color2) !important;
 }
 
 section.tagCloud.categories a {
-    color: $brandPrimary2 !important;
+    color: var(--cat-cloud-color) !important;
 
 }
 section.tagCloud a {
-    color: $brandSecondary1 !important;
+    color: var(--tag-cloud-color) !important;
 }
 
 section.article-tags a {
-    background-color: $brandSecondary1 !important;
+    color: var(--article-tag-color) !important;
+    background-color: var(--article-tag-bg-color) !important;
 }
