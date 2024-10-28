@@ -16,6 +16,6 @@ categories:
 tags:
     - promotions
 ---
-Over the course of the past few months and numerous conversations with the Banyan's CEO, Jehan Luth has convinced Duncan McGreggor to assume the mantle of CTO. After Wil's departure, supporting the SLT as the VP of Engineering has only worked for so long. It has become obvious that much more is needed, and after much deliberation, Duncan has finally agreed to the additional responsibilities.
+Over the course of the past few months and numerous conversations with the Banyan's CEO, Jehan Luth has convinced Duncan McGreggor to assume the mantle of CTO. After Wil's departure, supporting the SLT as the VP of Engineering has become increasingly important and is now clear to all that this needs to be formalized. After much deliberation, Duncan has agreed to the additional responsibilities as well as continuing the exciting work in which he has been engaged with the SLT.
 
 Effective today, Duncan is now the CTO of Banyan and looks forward to working more closely with the best senior leadership team with which he has ever had the pleasure of working.
