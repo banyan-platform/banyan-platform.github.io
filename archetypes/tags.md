@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | lower }}"
+title: "{{ replace .Name `-` ` ` | lower }}"
 description:
 image:
 style:
