@@ -14,7 +14,7 @@ comments: true
 categories:
     - Team
 tags:
-    - new employee
+    - new employees
 ---
 Wil, the CTO, has worked with Billy on numerous occasions in the past -- each of which consistently earned Billy the top prize when it comes to depending upon a gifted and productive software engineer who is capable of starting a project with nothing and ending with a world-class product.
 
