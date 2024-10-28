@@ -15,6 +15,7 @@ categories:
     - Updates
 tags:
     - notes
+    - releases
     - portal
     - ui/ux
 ---

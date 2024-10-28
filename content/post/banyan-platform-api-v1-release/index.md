@@ -15,7 +15,7 @@ categories:
     - Updates
 tags:
     - notes
-    - release
+    - releases
     - gcp
     - rest
     - bigtable
