@@ -16,7 +16,7 @@ categories:
 tags:
     - new employee
 ---
-Content coming soon!
+Ryan Walsh joins Banyan today as our first data scientist! Even on day 1, he's already sharing improvements we can make to our matching engine prototype. A former MediaMather, some of us have previously worked with Ryan and are amazed that we get to work with him again, to watching him build our Data Science capability from the ground up.
 
 Links of interest:
 

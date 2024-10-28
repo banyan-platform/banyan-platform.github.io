@@ -15,6 +15,7 @@ categories:
     - Team
 tags:
     - new employee
+    - distributed systems
 ---
 Today, Duncan has agreed to join the Banyan Engineering team as our first Principal Engineer. Previously of MediaMath, NASA, Rackspace, and Canonical/Ubuntu, he brings decades of experience building and shipping distributed systems and complex software engineering projects. His first day will be September 3rd.
 

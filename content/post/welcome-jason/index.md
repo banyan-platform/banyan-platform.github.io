@@ -15,8 +15,11 @@ categories:
     - Team
 tags:
     - new employee
+    - ui/ux
 ---
-Content coming soon!
+Previously a Director of Engineering at MediaMath (and front-end developer prior to that), in Jason Banyan has its own UI/UX expert! We have many ideas for customer facing capabilities and are delighted that Jason is here to bring our visions to fruition!
+
+Even more, we now have in our midst a man of the people: Jason is a council member of the borough of Metuchen, New Jersey!
 
 Links of interest:
 
