@@ -1,3 +1,20 @@
 /*
     You can add your own custom styles here.
 */
+
+h1.site-name a, h2.article-title a, #main-menu li.current a, div.archives-year span.year, section.copyright {
+    color: $brandPrimary1 !important;
+}
+
+section.tagCloud.categories a {
+    color: $brandPrimary2 !important;
+
+}
+section.tagCloud a {
+    color: $brandSecondary1 !important;
+}
+
+section.article-tags a {
+    background-color: $brandSecondary1 !important;
+
+}
