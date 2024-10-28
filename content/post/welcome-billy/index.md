@@ -16,4 +16,9 @@ categories:
 tags:
     - new employee
 ---
-Content coming soon!
+Wil, the CTO, has worked with Billy on numerous occasions in the past -- each of which consistently earned Billy the top prize when it comes to depending upon a gifted and productive software engineer who is capable of starting a project with nothing and ending with a world-class product.
+
+Billy comes to us from Walmart and MediaMath. His links of interest:
+
+* [LinkedIn](https://www.linkedin.com/in/billy-hand-2bab0318)
+* [Github](https://github.com/billyhandiii)

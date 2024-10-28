@@ -17,3 +17,8 @@ tags:
     - new employee
 ---
 Content coming soon!
+
+Links of interest:
+
+* [LinkedIn](https://www.linkedin.com/in/jacobtherealdeal/)
+* [Github](https://github.com/Jac0bDeal)

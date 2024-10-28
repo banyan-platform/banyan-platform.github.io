@@ -17,3 +17,8 @@ tags:
     - new employee
 ---
 Content coming soon!
+
+Links of interest:
+
+* [LinkedIn](https://www.linkedin.com/in/eric-man-05492317/)
+* [Github](https://github.com/ericmanlol)

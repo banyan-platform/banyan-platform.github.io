@@ -17,3 +17,8 @@ tags:
     - new employee
 ---
 Content coming soon!
+
+Links of interest:
+
+* [LinkedIn](https://www.linkedin.com/in/kasey-klipsch-003679240/)
+* [Github](https://github.com/kklipsch)
