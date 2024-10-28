@@ -1,5 +1,14 @@
-$defaultTagBackgrounds: #8ea885, #B5AFF0, #0177b8, #ffb900, #6b69d6;
-$defaultTagColors: #fff, #fff, #fff, #fff, #fff;
+$brandPrimary1: #162619;
+$brandPrimary2: #0C8346;
+$brandPrimary3: #D7E3FA;
+$brandPrimary4: #EDEDED;
+$brandSecondary1: #561F37;
+$brandSecondary2: #B5AFF0;
+$brandSecondary3: #E7E4B2;
+$brandSecondary4: #D5D5D5;
+$defaultTagBackgrounds: #8ea885, $brandSecondary2, #0177b8, #ffb900, #6b69d6;
+$defaultTagColors: $brandPrimary4, $brandPrimary4, $brandPrimary4, $brandPrimary4, $brandPrimary4;
+
 
 /*
 *   Global style
