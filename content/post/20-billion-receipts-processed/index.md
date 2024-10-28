@@ -6,7 +6,7 @@ description:
 date: 2024-10-25T14:39:51-05:00
 author:
 github-user:
-image: images/default-post-cover.jpg
+image: images/20billion-post-cover.png
 math:
 license:
 hidden: false

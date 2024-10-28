@@ -6,7 +6,7 @@ description:
 date: 2024-10-22T15:10:15-05:00
 author:
 github-user:
-image: images/default-post-cover.jpg
+image: images/clo-manage-explore.png
 math:
 license:
 hidden: false
