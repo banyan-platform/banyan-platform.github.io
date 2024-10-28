@@ -28,14 +28,20 @@ $defaultTagColors: $brandPrimary4, $brandPrimary4, $brandPrimary4, $brandPrimary
 
     --body-background: #f5f5fa;
 
-    --accent-color: #34495e;
-    --accent-color-darker: #2c3e50;
-    --accent-color-text: #fff;
+    --link-color: #3498db;
+    --link-color-darker: #027fb7;
+    --link-visited-color: var(--brand-secondary2);
+
+    --accent-color: var(--link-color);
+    --accent-color-darker: var(--link-color-darker);
+    --accent-color-text: var(--link-color);
     --body-text-color: #707070;
-    --heading-color: var(--brand-primary1);
+    --heading-color: var(--brand-primary2);
     --heading-color2: var(--brand-primary1);
     --cat-cloud-color: var(--brand-primary2);
-    --tag-cloud-color: var(--brand-secondary1);
+    --tag-cloud-color: var(--brand-primary2);
+    --tag-cloud-bg-color: var(--brand-primary3);
+
 
     --tag-border-radius: 4px;
 
@@ -46,14 +52,11 @@ $defaultTagColors: $brandPrimary4, $brandPrimary4, $brandPrimary4, $brandPrimary
 
     &[data-scheme="dark"] {
         --body-background: #303030;
-        --accent-color: #ecf0f1;
-        --accent-color-darker: #bdc3c7;
-        --accent-color-text: #000;
         --body-text-color: rgba(255, 255, 255, 0.7);
-        --heading-color: var(--brand-primary2);
         --heading-color2: var(--brand-primary3);
         --cat-cloud-color: var(--brand-primary3);
-        --tag-cloud-color: var(--brand-primary3);
+        --tag-cloud-color: var(--link-color);
+        --tag-cloud-bg-color: var(--card-background);
 
         --scrollbar-thumb: hsl(0, 0%, 40%);
         --scrollbar-track: var(--body-background);
@@ -133,8 +136,8 @@ $defaultTagColors: $brandPrimary4, $brandPrimary4, $brandPrimary4, $brandPrimary
     --blockquote-background-color: rgb(248 248 248);
 
     --heading-border-size: 4px;
-    --article-tag-color: var(--brand-primary4);
-    --article-tag-bg-color: var(--brand-secondary1);
+    --article-tag-color: var(--brand-primary2);
+    --article-tag-bg-color: var(--brand-primary3);
 
     --link-background-color: 189, 195, 199;
     --link-background-opacity: 0.5;
@@ -152,7 +155,7 @@ $defaultTagColors: $brandPrimary4, $brandPrimary4, $brandPrimary4, $brandPrimary
     --kbd-border-color: #dadada;
 
     &[data-scheme="dark"] {
-        --article-tag-color: var(--brand-secondary1);
+        --article-tag-color: #303030;
         --article-tag-bg-color: var(--brand-secondary2);
         --code-background-color: #272822;
         --code-text-color: rgba(255, 255, 255, 0.9);
