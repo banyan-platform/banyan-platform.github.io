@@ -17,3 +17,8 @@ tags:
     - new employee
 ---
 Content coming soon!
+
+Links of interest:
+
+* [LinkedIn]()
+* [Github](https://github.com/tjabri)

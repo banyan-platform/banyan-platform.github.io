@@ -17,3 +17,8 @@ tags:
     - new employee
 ---
 Content coming soon!
+
+Links of interest:
+
+* [LinkedIn](https://www.linkedin.com/in/ryan-walsh-38274613a/)
+* [Github](https://github.com/rwalsh03)

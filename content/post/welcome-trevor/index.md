@@ -17,3 +17,8 @@ tags:
     - new employee
 ---
 Content coming soon!
+
+Links of interest:
+
+* [LinkedIn](https://www.linkedin.com/in/trevorkonya/)
+* [Github](https://github.com/tkonya)
