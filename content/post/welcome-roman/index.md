@@ -14,7 +14,7 @@ comments: true
 categories:
     - Team
 tags:
-    - new employee
+    - new employees
 ---
 A chemist, trained expert in air quality, and inveterate learner not willing to rest on his laurels, Roman has since made a career change to software engineering complete with developing a deep love for the Go programming language. We are excited to have him on the team, providing much-needed additional talent in our scrappy engineering team!
 

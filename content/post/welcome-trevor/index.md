@@ -14,7 +14,7 @@ comments: true
 categories:
     - Team
 tags:
-    - new employee
+    - new employees
 ---
 Today we are joined by Trevor, a talented software engineer and engineering leader! Many of us have worked with him previously and are excited to have him join our rapidly growing team!
 

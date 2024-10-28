@@ -14,7 +14,7 @@ comments: true
 categories:
     - Team
 tags:
-    - new employee
+    - new employees
     - ui/ux
 ---
 Previously a Director of Engineering at MediaMath (and front-end developer prior to that), in Jason Banyan has its own UI/UX expert! We have many ideas for customer facing capabilities and are delighted that Jason is here to bring our visions to fruition!
