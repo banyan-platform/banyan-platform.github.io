@@ -20,7 +20,7 @@ tags:
     - internal tooling
 weight: 10
 ---
-Today day marked the first one-on-one meeting for Ben as head of IT with Duncan (CTO), representing some new structure in the org with Ben dotted-lining into Engineering.
+Today day marked the first one-on-one meeting for Ben as head of IT with Duncan (CTO), representing some new structure in the org with IT dotted-lining into Engineering.
 
 At Banyan, we are not only passionate about creating great software for our customers and partners, but also setting up all of our employees with the tools they need to be happy in their workflows and successful in their goals. Due to being a scrappy startup, this very often means close collaboration between IT and Engineering, sometimes involving actual software development. What's more (and to the delight of the CTO), Ben has been picking up more development skills and wants to learn Go.
 
