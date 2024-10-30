@@ -18,6 +18,7 @@ tags:
     - cross-team transfers
     - it
     - internal tooling
+weight: 10
 ---
 Today day marked the first one-on-one meeting for Ben as head of IT with Duncan (CTO), representing some new structure in the org with Ben dotted-lining into Engineering.
 
