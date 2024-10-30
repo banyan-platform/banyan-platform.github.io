@@ -18,6 +18,7 @@ tags:
     - releases
     - airflow
     - beam
+weight: 1
 ---
 From day one, our Data Scientist Ryan Walsh has been working non-stop on turning a very rough prototype for receipt-and-transaction mapping to a full-fledged, maths-based matching engine for merchants and financial institutions who have partnered together. Not only has all Ryan's hard work paid off with a full live deployment and integration into our data pipeline (for processing merchant data), but today marks the first match processed with new in-coming data.
 

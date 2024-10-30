@@ -15,6 +15,7 @@ categories:
     - Team
 tags:
     - promotions
+weight: 10
 ---
 Effective today, Principal Engineer Duncan McGreggor has been promoted to VP of Engineering, and our beloved Staff Engineer Billy Hand has been promoted to Principal Engineer. This was done in recognition of their hard work, engineering excellence, and exceptional commitment to the success of Banyan.
 

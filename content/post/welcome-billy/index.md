@@ -15,6 +15,7 @@ categories:
     - Team
 tags:
     - new employees
+weight: 10
 ---
 Wil, the CTO, has worked with Billy on numerous occasions in the past -- each of which consistently earned Billy the top prize when it came to depending upon a gifted and productive software engineer who was capable of starting a project with nothing and ending with a world-class product. Billy is not only a phenomenal staff Engineer, he is the perfect person to establish the foundation of Banyan's Engineering team!
 

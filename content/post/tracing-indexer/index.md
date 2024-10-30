@@ -21,6 +21,7 @@ tags:
     - logging
     - data
     - troubleshooting
+weight: 1
 ---
 The "indexer" tool that Kasey worked on before winter break is now ready for production use! With the recent refactor and merge (deployed today), the team is even better equipped to investigate everything from network partitions, back pressure, and resource contention to issues with customer data, unexpected metrics, and missing logs.
 

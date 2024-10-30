@@ -21,11 +21,15 @@ To add a new category:
 * edit the `title` and `description` metadata in `new-cat/_index.md`
 * update the metadata of post(s) that will use this new category (multiple allowed)
 
+When writing a post, ensure you add a few pertinent tags (preferably ones that already exist), and be sure to remove any comments/instructions from the post's metadata sections.
+
 After writing your content, run the spell-checker (requires `brew install aspell`):
 
 ```shell
 make spell-check
 ```
+
+To review locally, change the post's metadata from `draft: true` to `draft: false`, and run the server (in another terminal) with `hugo serve`. In your browser, load up the page you've just added. Review, and continue to edit as needed.
 
 When you're ready to publish:
 

@@ -15,6 +15,7 @@ categories:
     - Team
 tags:
     - new employees
+weight: 10
 ---
 Jacob is one of the most up-and-coming senior software engineers we've had the pleasure to work with previously, and we are *delighted* to have brought him into this new team early-on! A passionate Go programmer, Jacob comes to us from MediaMath complete with a background in physics and mathematics and a love of photography.
 

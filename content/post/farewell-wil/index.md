@@ -15,6 +15,7 @@ categories:
     - Team
 tags:
     - departures
+weight: 20
 ---
 Today was the last day of Banyan's first CTO, Wil Schobeiri. Wil laid the foundations of Banyan's big data and distributed systems architecture, in concert with Billy Hand -- both working day and night to convert early-stage demo software into a sustainable system capable of handling millions of transactions, receipts, and item-level data.
 

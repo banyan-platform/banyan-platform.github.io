@@ -19,5 +19,6 @@ tags:
     - soc2
     - compliance
     - audit
+weight: 1
 ---
 We've received the auditors' report today, and our platform is SOC2 compliant, with colors flying! Special thanks to Ben for his tireless efforts in leading this project, and for Kasey -- whose generally security-minded proclivities guide so many of our decisions, but in this particular case, his deep knowledge of our systems and processes made the audit as pain-free as possible.

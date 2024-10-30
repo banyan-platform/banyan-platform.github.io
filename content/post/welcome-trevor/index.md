@@ -15,6 +15,7 @@ categories:
     - Team
 tags:
     - new employees
+weight: 10
 ---
 Today we are joined by Trevor, a talented software engineer and engineering leader! Many of us have worked with him previously and are excited to have him join our rapidly growing team!
 

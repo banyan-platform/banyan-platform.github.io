@@ -17,6 +17,7 @@ tags:
     - new employees
     - payments
     - distributed systems
+weight: 10
 ---
 Today we are delighted to announce that Kasey Klipsch will be joining us from Stripe as Banyan's second Principal Engineer. With a strong background in payment processing, soft real-time services, and distributed systems, Kasey will be helping to guide the evolution of our systems infrastructure, our software development best practices, and level up our whole team with mentoring, code review excellence and paired programming.
 
