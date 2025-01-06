@@ -19,6 +19,6 @@ tags:
     - gcp
     - rest
     - bigtable
-weight: 1
+weight: 5
 ---
 In July, Billy and Wil (CTO) started work on the new Banyan Platform with audacious plans for being able to handle hundreds of millions of receipts and transaction data. Shortly after this, Ivan began converting the original Node.js demo into Golang, as a proof of concept for a REST API. In September, Duncan began establishing the means by which to move all of this early prototype work into production-ready software and services. As of today, we have our first release into production, with a REST API backed by Google's BigTable, supporting access potentially mind-blowingly massive data stores.

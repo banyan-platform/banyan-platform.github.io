@@ -18,7 +18,7 @@ tags:
     - releases
     - airflow
     - beam
-weight: 1
+weight: 5
 ---
 When we first started onboarding merchant data, it was a long and arduous manual process requiring extraordinary coordination and countless meetings (mostly due to a lack of industry standards or adherence to convention). A side effect of this was that we developed an in-house expertise in bringing disparate merchant data sources (product catalogs and receipts) into uniform representations that could benefit from the capabilities built into the Banyan Platform at every level of our stack.
 

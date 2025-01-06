@@ -18,7 +18,7 @@ tags:
     - releases
     - portal
     - ui/ux
-weight: 1
+weight: 5
 ---
 Today, the web application Jason Delia has been developing has transitioned to v1, and it will soon be available to our customers. He has shared that the journey of building this application from the ground up has been incredibly gratifying, largely because of the intriguing and demanding problems we've been tackling.
 
